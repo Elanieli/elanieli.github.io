@@ -1,0 +1,55 @@
+body {
+font-size: 66px;
+font-style: normal;
+color: black;
+text-align: left;
+
+background-color: bisque;
+
+margin: 0;
+}
+
+h1 {
+font-size: 90px;
+font-style: normal;
+font-weight: bolder;
+color: darkblue;
+text-align: center;
+
+background-color: bisque;
+
+margin-top: 100px;
+}
+
+h2 {
+font-size: 70px;
+font-style: oblique;
+color: darkblue;
+text-align: center;
+font-weight: bold;
+
+background-color: bisque;
+
+margin-top: 100px;
+}
+
+h3 {
+font-size: 55px;
+font-style: inherit;
+color: darkcyan;
+text-align: center;
+
+background-color: bisque;
+margin-top: 100px;
+}
+
+p {
+font-size: 50px;
+font-style: initial;
+color: black;
+text-align: left;
+
+background-color: bisque;
+
+margin-top: 100px;
+}
